@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## We are AlgoAlliance
+We are focused on paving new algorithms and their enhancement
 <!--
 
 **Here are some ideas to get you started:**
